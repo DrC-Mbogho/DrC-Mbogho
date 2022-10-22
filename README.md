@@ -6,6 +6,6 @@
 - 📫 How to reach me @chao_mbogho on Twitter and my website www.chaombogho.com 
 
 <!---
-DrC-Mbogho/DrC-Mbogho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DrC-Mbogho/about is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
