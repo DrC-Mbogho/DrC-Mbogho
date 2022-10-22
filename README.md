@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dr Chao Mbogho
 - 👋 I have created this GitHub profile after succumbing to pressure to show that I am a real Computer Scientist 
-- 👀 I’m interested in Java Programming, SQL, Excel, Innovation, Research, and Mentorship
+- 👀 I’m interested in Java Programming, Database manipulation using SQL, Data analysis and visualization using Excel, Innovation, Research, and Mentorship
 - 🌱 I’m currently learning Advanced Excel, Advanced SQL, and Python
 - 💞️ I’m looking to collaborate on Excel, Java, Research. 
 - 📫 How to reach me @chao_mbogho on Twitter and my website www.chaombogho.com 
